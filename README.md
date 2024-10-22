@@ -1,6 +1,6 @@
 ### Sejam bem-vindos ao meu perfil 💜
 
-Me chamo Isabel Solovijovas
+Me chamo Isabel Solovijovas Fonseca!
 
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou aprendendo progamação
